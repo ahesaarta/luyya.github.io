@@ -1,4 +1,14 @@
-# LOVE
+# Kado
+-Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/I-Putu-Wahyu-Artawiguna/pen/QWowyzb](https://codepen.io/I-Putu-Wahyu-Artawiguna/pen/QWowyzb).
 
+# Description
+Flower code tiktok trend 
+
+Responsive Web -- bisa langsung disesuikan di file css --> style.css
+
+# Author
+- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
+- Index Code : Septian Dwi Cahyo (@Septiandwica)
+
+Thanks to codepan and mdusmanansari
